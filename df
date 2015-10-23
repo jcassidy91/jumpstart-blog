@@ -1,0 +1,11 @@
+[33mcommit 8051f3a1ee8957c832ac7fb6b5cfee7aa877862c[m
+Author: jcassidy91 <aniki219@gmail.com>
+Date:   Thu Oct 22 16:40:28 2015 -0700
+
+    form-based workflow. Also added flash statuses for Update, create, and delete.
+
+[33mcommit c8713b4973c8deb9bae7bd31899f80900e8ffa78[m
+Author: jcassidy91 <aniki219@gmail.com>
+Date:   Mon Oct 19 18:54:57 2015 -0700
+
+    first blogger commit
